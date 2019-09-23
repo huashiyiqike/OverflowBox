@@ -17,3 +17,6 @@ No height or line number config is required.
 npm install overflowbox
 import OverflowBox from 'overflowbox'
 ```
+
+[downloads-image]: https://img.shields.io/npm/dm/overflowbox.svg
+[npm-url]: https://www.npmjs.com/package/overflowbox
