@@ -18,5 +18,6 @@ npm install overflowbox
 import OverflowBox from 'overflowbox'
 ```
 
-[downloads-image]: https://img.shields.io/npm/dm/overflowbox.svg
+[npm-image]: https://img.shields.io/npm/v/overflowbox.svg
 [npm-url]: https://www.npmjs.com/package/overflowbox
+[downloads-image]: https://img.shields.io/npm/dm/overflowbox.svg
